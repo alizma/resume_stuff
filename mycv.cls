@@ -173,7 +173,7 @@
 \renewcommand{\headrulewidth}{0pt}
 \fancyhfoffset[l]{\dimexpr\Gm@lmargin-\Gm@rmargin\relax}
 \fancyfoot[L]{\textcolor{Gray}{\@date}}
-\fancyfoot[C]{\textcolor{Gray}{\@shortname~~~$\cdot$~~~Curriculum Vitae}}
+\fancyfoot[C]{\textcolor{Gray}{\@shortname~~~$\cdot$~~~R\'{e}sum\'{e}}}
 \fancyfoot[R]{\textcolor{Gray}{\thepage}}
 
 % Publication
