@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.8.22)  27 AUG 2021 20:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.8.22)  28 AUG 2021 14:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1221,12 +1221,13 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 91.
 
-No complaints by nag.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 108.
 [1
 
 
 ]
+No complaints by nag.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 108.
+[2]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 108.
  (/home/alizma/Documents/resume_stuff/internship_resume/main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 108.
@@ -1239,17 +1240,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 108.
  ) 
 Here is how much of TeX's memory you used:
- 28878 strings out of 481239
- 474827 string characters out of 5920377
+ 28881 strings out of 481239
+ 474854 string characters out of 5920377
  1130830 words of memory out of 5000000
  43606 multiletter control sequences out of 15000+600000
- 607784 words of font info for 129 fonts, out of 8000000 for 9000
+ 608009 words of font info for 131 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  54i,11n,53p,1247b,2579s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpbit8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpbne.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpmit8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpmnc.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpmne.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssmsc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpsy.pfb>
-Output written on /home/alizma/Documents/resume_stuff/internship_resume/main.pdf (1 page, 130374 bytes).
+Output written on /home/alizma/Documents/resume_stuff/internship_resume/main.pdf (2 pages, 131102 bytes).
 PDF statistics:
- 157 PDF objects out of 1000 (max. 8388607)
- 19 named destinations out of 1000 (max. 500000)
+ 161 PDF objects out of 1000 (max. 8388607)
+ 20 named destinations out of 1000 (max. 500000)
  34453 words of extra memory for PDF output out of 35830 (max. 10000000)
 
