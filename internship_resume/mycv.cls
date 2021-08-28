@@ -51,10 +51,10 @@
 \RequirePackage[strict]{changepage}
 \geometry{
   a4paper,
-  top=2cm,
-  bottom=2cm,
+  top=1cm,
+  bottom=0.5cm,
   left=4.5cm,
-  right=1.5cm,
+  right=1cm,
   includefoot,
   heightrounded,
 }
@@ -93,13 +93,14 @@
 % Custom styles
 \RequirePackage{titlesec}
 \titleformat{\section}[leftmargin]{\large\scshape\sffamily}{}{0cm}{}
-\titlespacing{\section}{\dimexpr\Gm@lmargin-\Gm@rmargin-0.5cm\relax}{2\parskip}{0.5cm}
+\titlespacing{\section}{\dimexpr\Gm@lmargin-\Gm@rmargin-0.5cm\relax}{1\parskip}{0cm}
+\titlespacing{\subsection}{0pt}{12pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
 
 % \subsection{title}
 % \subsection{title}[location]
 \RenewDocumentCommand{\subsection}{m o}{%
   \begingroup%
-  \vspace{\parskip}
+  \vspace{0pt}
   \normalsize%
   \phantomsection%
   \addcontentsline{toc}{subsection}{#1}%
@@ -170,11 +171,12 @@
 \RequirePackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhf{}
-\renewcommand{\headrulewidth}{0pt}
-\fancyhfoffset[l]{\dimexpr\Gm@lmargin-\Gm@rmargin\relax}
-\fancyfoot[L]{\textcolor{Gray}{\@date}}
-\fancyfoot[C]{\textcolor{Gray}{\@shortname~~~$\cdot$~~~R\'{e}sum\'{e}}}
-\fancyfoot[R]{\textcolor{Gray}{\thepage}}
+\cfoot{}
+%\renewcommand{\headrulewidth}{0pt}
+%\fancyhfoffset[l]{\dimexpr\Gm@lmargin-\Gm@rmargin\relax}
+%\fancyfoot[L]{\textcolor{Gray}{\@date}}
+%\fancyfoot[C]{\textcolor{Gray}{\@shortname~~~$\cdot$~~~R\'{e}sum\'{e}}}
+%\fancyfoot[R]{\textcolor{Gray}{\thepage}}
 
 % Publication
 \RequirePackage[
