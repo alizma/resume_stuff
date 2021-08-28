@@ -1,13 +1,13 @@
 # Fdb version 3
-["biber main"] 1630106773 "main.bcf" "main.bbl" "main" 1630174454
-  "main.bcf" 1630174425 102832 b71dfa0ad484b29b1825aa7194a63a52 "pdflatex"
+["biber main"] 1630106773 "main.bcf" "main.bbl" "main" 1630174652
+  "main.bcf" 1630174652 102832 b71dfa0ad484b29b1825aa7194a63a52 "pdflatex"
   (generated)
   "main.blg"
   "main.bbl"
-["pdflatex"] 1630174424 "/home/alizma/Documents/resume_stuff/internship_resume/main.tex" "/home/alizma/Documents/resume_stuff/internship_resume/main.pdf" "main" 1630174454
+["pdflatex"] 1630174650 "/home/alizma/Documents/resume_stuff/internship_resume/main.tex" "/home/alizma/Documents/resume_stuff/internship_resume/main.pdf" "main" 1630174652
   "/etc/texmf/web2c/texmf.cnf" 1629661340 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/alizma/Documents/resume_stuff/internship_resume/main.aux" 1630174425 4015 1453a6aff4b873d1c377ed50cb3af68d ""
-  "/home/alizma/Documents/resume_stuff/internship_resume/main.tex" 1630174453 5065 4dc432b2bd8374c68ab3872228174a8f ""
+  "/home/alizma/Documents/resume_stuff/internship_resume/main.aux" 1630174652 4015 1453a6aff4b873d1c377ed50cb3af68d ""
+  "/home/alizma/Documents/resume_stuff/internship_resume/main.tex" 1630174650 5065 b32476b9fb9b0020302ec30c846269ed ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1579211814 2895 e3c789f6531dc88b7922a50d00c2706d ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1579211814 2984 451ea9e2633f96ffab926df4dba59125 ""
@@ -199,20 +199,20 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1629669340 4770781 1ed1abab22da9c3e2cc82e4db562318b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1629669393 8259000 4cbcbb8453c3d70849fd4a0a8ddf95ec ""
-  "main.aux" 1630174425 4015 1453a6aff4b873d1c377ed50cb3af68d "pdflatex"
+  "main.aux" 1630174652 4015 1453a6aff4b873d1c377ed50cb3af68d "pdflatex"
   "main.bbl" 1630106773 0 d41d8cd98f00b204e9800998ecf8427e "biber main"
-  "main.out" 1630174425 3307 5bb1acb2e1bf367e4c6959638f3e3865 "pdflatex"
-  "main.run.xml" 1630174425 2321 e96a0df8e94489688133fcb7b4f81e44 "pdflatex"
-  "main.tex" 1630174453 5065 4dc432b2bd8374c68ab3872228174a8f ""
+  "main.out" 1630174652 3307 5bb1acb2e1bf367e4c6959638f3e3865 "pdflatex"
+  "main.run.xml" 1630174652 2321 e96a0df8e94489688133fcb7b4f81e44 "pdflatex"
+  "main.tex" 1630174650 5065 b32476b9fb9b0020302ec30c846269ed ""
   "mycv.cls" 1630105563 7532 f135dcf65068da588e86cc28c0b8c22f ""
-  "pdfa.xmpi" 1630174425 5042 fa88bc2bf3aaf3659e0536b6a637d3e8 "pdflatex"
+  "pdfa.xmpi" 1630174651 5042 1223ea37c18888ce2ee8214d1cf785aa "pdflatex"
   (generated)
   "/home/alizma/Documents/resume_stuff/internship_resume/main.log"
+  "main.run.xml"
   "main.out"
   "main.aux"
-  "main.run.xml"
-  "main.bcf"
-  "main.pdf"
   "main.log"
-  "pdfa.xmpi"
+  "main.pdf"
+  "main.bcf"
   "/home/alizma/Documents/resume_stuff/internship_resume/main.pdf"
+  "pdfa.xmpi"
