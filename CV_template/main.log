@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.8.22)  28 AUG 2021 18:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.8.22)  28 AUG 2021 19:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/alizma/Documents/resume_stuff/internship_resume/main.tex
-(/home/alizma/Documents/resume_stuff/internship_resume/main.tex
+**/home/alizma/Documents/resume_stuff/CV_template/main.tex
+(/home/alizma/Documents/resume_stuff/CV_template/main.tex
 LaTeX2e <2020-02-02> patch level 2
-L3 programming layer <2020-02-14> (/home/alizma/Documents/resume_stuff/internship_resume/mycv.cls
+L3 programming layer <2020-02-14> (/home/alizma/Documents/resume_stuff/CV_template/mycv.cls
 Document Class: mycv 
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
@@ -580,8 +580,8 @@ Using XMP template file: pdfa.xmp
 \openout3 = `pdfa.xmpi'.
 
 <<pdfa.xmpi>>)
-Package hyperref Info: Option `unicode' set `true' on input line 45.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 45.
+Package hyperref Info: Option `unicode' set `true' on input line 46.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 46.
  (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
@@ -971,7 +971,7 @@ File: biblatex.cfg
 )))
 \@quotelevel=\count424
 \@quotereset=\count425
- (/home/alizma/Documents/resume_stuff/internship_resume/main.aux)
+ (/home/alizma/Documents/resume_stuff/CV_template/main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/jkp/m/it on input line 12.
@@ -1056,7 +1056,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 12.
 LaTeX Info: Redefining \pageref on input line 12.
 LaTeX Info: Redefining \nameref on input line 12.
- (/home/alizma/Documents/resume_stuff/internship_resume/main.out) (/home/alizma/Documents/resume_stuff/internship_resume/main.out)
+ (/home/alizma/Documents/resume_stuff/CV_template/main.out) (/home/alizma/Documents/resume_stuff/CV_template/main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
@@ -1069,14 +1069,14 @@ LaTeX Info: Redefining \nameref on input line 12.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includefoot heightrounded 
-* h-part:(L,W,R)=(128.0374pt, 441.01773pt, 28.45274pt)
+* h-part:(L,W,R)=(42.67912pt, 526.376pt, 28.45274pt)
 * v-part:(T,H,B)=(28.45274pt, 802.36774pt, 14.22636pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=441.01773pt
+* \textwidth=526.376pt
 * \textheight=778.0pt
-* \oddsidemargin=55.76741pt
-* \evensidemargin=55.76741pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
 * \topmargin=-80.81725pt
 * \headheight=12.0pt
 * \headsep=25.0pt
@@ -1122,7 +1122,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (/home/alizma/Documents/resume_stuff/internship_resume/main.bbl)
+ (/home/alizma/Documents/resume_stuff/CV_template/main.bbl)
 Package biblatex Info: Reference section=0 on input line 12.
 Package biblatex Info: Reference segment=0 on input line 12.
 Package nag Info: Command \caption@xlabel not defined, skipping amendment on input line 12.
@@ -1131,7 +1131,7 @@ Package nag Info: Command \captionbelow not defined, skipping amendment on input
 Package nag Info: Command \hc@caption not defined, skipping amendment on input line 12.
 Package nag Info: Command \topcaption not defined, skipping amendment on input line 12.
 
-Overfull \hbox (99.31084pt too wide) in paragraph at lines 14--14
+Overfull \hbox (265.69753pt too wide) in paragraph at lines 14--14
 [][] 
  []
 
@@ -1159,97 +1159,44 @@ LaTeX Font Info:    Trying to load font information for U+jkpsyc on input line 1
  (/usr/share/texlive/texmf-dist/tex/latex/kpfonts/ujkpsyc.fd
 File: ujkpsyc.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 14.
- (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 14.
- (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
-LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not available
-(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 14.
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
-Overfull \hbox (1.93999pt too wide) in paragraph at lines 14--14
-[]$[]$$[]$  
  []
 
-Package microtype Info: Character `029' is missing
-(microtype)             in font `T1/jkp/m/sc/12'.
-(microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Trying to load font information for T1+jkpss on input line 16.
-(/usr/share/texlive/texmf-dist/tex/latex/kpfonts/t1jkpss.fd
-File: t1jkpss.fd 2007/07/16 Fontinst v1.928 font definitions for T1/jkpss.
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `jkpss' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-Package microtype Info: Character `029' is missing
-(microtype)             in font `T1/jkpss/m/sc/12'.
-(microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Trying to load font information for TS1+jkp on input line 23.
- (/usr/share/texlive/texmf-dist/tex/latex/kpfonts/ts1jkp.fd
-File: ts1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for TS1/jkp.
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `jkp' (encoding: TS1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
 
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 48.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 91.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@@underline' on input line 91.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hbox' on input line 91.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 91.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 91.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 91.
+ []
 
 No complaints by nag.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 108.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 37.
 [1
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 108.
- (/home/alizma/Documents/resume_stuff/internship_resume/main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 108.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 108.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 37.
+ (/home/alizma/Documents/resume_stuff/CV_template/main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 37.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 37.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 5BB1ACB2E1BF367E4C6959638F3E3865;3307.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 108.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 37.
  ) 
 Here is how much of TeX's memory you used:
- 28878 strings out of 481239
- 474827 string characters out of 5920377
- 1130830 words of memory out of 5000000
- 43606 multiletter control sequences out of 15000+600000
- 607784 words of font info for 129 fonts, out of 8000000 for 9000
+ 28613 strings out of 481239
+ 470773 string characters out of 5920377
+ 1120395 words of memory out of 5000000
+ 43462 multiletter control sequences out of 15000+600000
+ 556694 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 54i,11n,53p,1247b,2579s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpbit8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpbne.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpmit8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpmnc.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpmne.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssmsc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpsy.pfb>
-Output written on /home/alizma/Documents/resume_stuff/internship_resume/main.pdf (1 page, 130375 bytes).
+ 52i,11n,49p,1241b,2579s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpmn8a.pfb>
+Output written on /home/alizma/Documents/resume_stuff/CV_template/main.pdf (1 page, 24982 bytes).
 PDF statistics:
- 157 PDF objects out of 1000 (max. 8388607)
- 19 named destinations out of 1000 (max. 500000)
- 34453 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 20 PDF objects out of 1000 (max. 8388607)
+ 2 named destinations out of 1000 (max. 500000)
+ 9741 words of extra memory for PDF output out of 10000 (max. 10000000)
 

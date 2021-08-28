@@ -10,6 +10,7 @@
 %
 % This work has the LPPL maintenance status `maintained'.
 %
+% The Current Maintainer of this work is Cheng XU.
 
 \NeedsTeXFormat{LaTeX2e}[1999/12/01]
 \ProvidesClass{mycv}
@@ -52,7 +53,7 @@
   a4paper,
   top=1cm,
   bottom=0.5cm,
-  left=4.5cm,
+  left=1.5cm,
   right=1cm,
   includefoot,
   heightrounded,
@@ -128,40 +129,45 @@
   \clearpage%
   \begin{adjustwidth}{\dimexpr\Gm@rmargin-\Gm@lmargin\relax}{}
     \begin{minipage}[c]{.3\linewidth}
-      \scalebox{1.2}{\Huge\@name}%
+      \scalebox{1.2}{\Large \{COMPANY/POSITION\} Cover Letter - Alexey Izmailov}%
     \end{minipage}%
     \begin{minipage}[c]{.7\linewidth}
-      \begin{flushright}
-        \ifthenelse{\isundefined{\@address}}{}{%
-          \@address \\%
-        }%
-        \newbool{isstart}%
-        \setbool{isstart}{true}%
-        \ifthenelse{\isundefined{\@phone}}{}{%
-          \ifbool{isstart}{\setbool{isstart}{false}}{~~$\cdot$~~}%
-          \faIcon{phone}~\@phone%
-        }%
-        \ifthenelse{\isundefined{\@email}}{}{%
-          \ifbool{isstart}{\setbool{isstart}{false}}{~~$\cdot$~~}%
-          \href{mailto:\@email}{\faIcon{envelope}~\nolinkurl{\@email}}%
-        }%
-        \ifthenelse{\isundefined{\@mobile} \AND \isundefined{\@email}}{}{\\}%
-        \setbool{isstart}{true}%
-        \ifthenelse{\isundefined{\@homepage}}{}{%
-          \ifbool{isstart}{\setbool{isstart}{false}}{~~$\cdot$~~}%
-          \href{\@homepage}{\faIcon{home}~\nolinkurl{\@homepage}}%
-        }%
-        \ifthenelse{\isundefined{\@github}}{}{%
-          \ifbool{isstart}{\setbool{isstart}{false}}{~~$\cdot$~~}%
-          \href{https://github.com/\@github}{\faIcon{github}~\@github}%
-        }%
-        \ifthenelse{\isundefined{\@linkedin}}{}{%
-          \ifbool{isstart}{\setbool{isstart}{false}}{~~$\cdot$~~}%
-          \href{https://www.linkedin.com/in/\@linkedin}{\faIcon{linkedin}~\@linkedin}%
-        }%
-      \end{flushright}
+        \begin{flushright}
+            \today 
+        \end{flushright}
     \end{minipage}
-    \vspace{1ex}%
+    %\begin{minipage}[c]{.7\linewidth}
+    %  \begin{flushright}
+    %    \ifthenelse{\isundefined{\@address}}{}{%
+    %      \@address \\%
+    %    }%
+    %    \newbool{isstart}%
+    %    \setbool{isstart}{true}%
+    %    \ifthenelse{\isundefined{\@phone}}{}{%
+    %      \ifbool{isstart}{\setbool{isstart}{false}}{~~$\cdot$~~}%
+    %      \faIcon{phone}~\@phone%
+    %    }%
+    %    \ifthenelse{\isundefined{\@email}}{}{%
+    %      \ifbool{isstart}{\setbool{isstart}{false}}{~~$\cdot$~~}%
+    %      \href{mailto:\@email}{\faIcon{envelope}~\nolinkurl{\@email}}%
+    %    }%
+    %    \ifthenelse{\isundefined{\@mobile} \AND \isundefined{\@email}}{}{\\}%
+    %    \setbool{isstart}{true}%
+    %    \ifthenelse{\isundefined{\@homepage}}{}{%
+    %      \ifbool{isstart}{\setbool{isstart}{false}}{~~$\cdot$~~}%
+    %      \href{\@homepage}{\faIcon{home}~\nolinkurl{\@homepage}}%
+    %    }%
+    %    \ifthenelse{\isundefined{\@github}}{}{%
+    %      \ifbool{isstart}{\setbool{isstart}{false}}{~~$\cdot$~~}%
+    %      \href{https://github.com/\@github}{\faIcon{github}~\@github}%
+    %    }%
+    %    \ifthenelse{\isundefined{\@linkedin}}{}{%
+    %      \ifbool{isstart}{\setbool{isstart}{false}}{~~$\cdot$~~}%
+    %      \href{https://www.linkedin.com/in/\@linkedin}{\faIcon{linkedin}~\@linkedin}%
+    %    }%
+    %  \end{flushright}
+    %\end{minipage}
+    %\vspace{1ex}%
     \par\vspace{-.5\ht\strutbox}\noindent\hrulefill\par%
   \end{adjustwidth}
 }
